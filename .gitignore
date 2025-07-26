@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+*.env
+.env
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Project-specific
+data/
+*.csv
+*.png
+*.html
+C:/Users/javie/modulos bot/entorno_virtual_modulo/

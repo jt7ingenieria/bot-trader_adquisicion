@@ -1,0 +1,9 @@
+2025-07-26 16:13:42.355 | INFO     | modes.historical:run:11 - Starting historical data download...
+2025-07-26 16:13:42.357 | INFO     | data_fetcher:fetch_historical_data:23 - Fetching historical data for BTC/USDT from 2023-01-01 to 2023-12-31
+2025-07-26 16:16:05.049 | INFO     | modes.historical:run:11 - Starting historical data download...
+2025-07-26 16:16:05.049 | INFO     | data_fetcher:fetch_historical_data:23 - Fetching historical data for BTC/USDT from 2023-01-01 to 2023-12-31
+2025-07-26 16:16:31.401 | INFO     | modes.historical:run:26 - Saved raw historical data for BTC/USDT to data\binance_BTC_USDT_1h_raw.csv
+2025-07-26 16:16:31.783 | INFO     | modes.historical:run:42 - Saved data with indicators for BTC/USDT to data\binance_BTC_USDT_1h_indicators.csv
+2025-07-26 16:16:31.784 | INFO     | data_fetcher:fetch_historical_data:23 - Fetching historical data for SOL/USDT from 2023-01-01 to 2023-12-31
+2025-07-26 16:16:51.246 | INFO     | modes.historical:run:26 - Saved raw historical data for SOL/USDT to data\binance_SOL_USDT_1h_raw.csv
+2025-07-26 16:16:51.624 | INFO     | modes.historical:run:42 - Saved data with indicators for SOL/USDT to data\binance_SOL_USDT_1h_indicators.csv
