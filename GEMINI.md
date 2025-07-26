@@ -64,7 +64,18 @@ python main.py --mode <modo> [opciones_adicionales]
     *   **Estrategias disponibles:** `moving_average_crossover_strategy`, `ema_volume_strategy`
     *   **Estado actual:** No se ha probado su ejecución.
 
-## 5. Próximos Pasos y Tareas Pendientes
+## 5. Gestión de Versiones (Git)
+
+Se ha inicializado un repositorio Git local y se ha conectado a un repositorio remoto en GitHub.
+
+*   **Repositorio Local:** Inicializado en la raíz del proyecto (`src/`).
+*   **Repositorio Remoto:** `https://github.com/jt7ingenieria/bot-trader_adquisicion.git`
+*   **Archivos de Configuración de Git:**
+    *   `.gitignore`: Configurado para ignorar archivos temporales, entornos virtuales y directorios de salida (`data/`).
+    *   `requirements.txt`: Generado con las dependencias de Python instaladas.
+    *   `README.md`: Creado con una descripción detallada del proyecto y sus instrucciones de uso.
+
+## 6. Próximos Pasos y Tareas Pendientes
 
 Para continuar el desarrollo, se recomienda:
 
@@ -83,4 +94,3 @@ Para continuar el desarrollo, se recomienda:
     *   Desarrollar pruebas para las funciones clave en `data_fetcher.py`, `preprocessing.py`, `strategy.py`, `backtesting_engine.py`, y `performance_analyzer.py` para asegurar la robustez del código.
 5.  **Documentación adicional:**
     *   Añadir comentarios al código donde sea necesario para explicar lógica compleja.
-    *   Considerar la creación de un `README.md` más detallado para el proyecto.
